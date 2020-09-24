@@ -1,0 +1,17 @@
+I want to order pizza?
+Yes, Sure which style of pizza do you want to order.
+I want to order cheese burst pizza?
+Okay! Can you Specify your Pizza size
+I would like to order Big size Cheese burst pizza?
+Tell us your Topping preference
+Mushroom?
+Sure, Can you please tell me your name!
+Saloni?
+Your address
+T-Nagar?
+Your Phone Number
+9876543210?
+Your Postal Code
+609001?
+Thank you, your Order for Big size cheese busrt pizza with Mushroom toppings has been placed!
+
