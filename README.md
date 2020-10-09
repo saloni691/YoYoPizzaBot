@@ -1,9 +1,12 @@
 # YoYoPizzaBot
 Steps to use the app: 
 
-A simple pizza ordering chatbot 
-Steps to use the bot: 
-1. http://127.0.0.1:5000/ Click this link to access the  chatbot app 
+A simple pizza ordering chatbot: 
+-------------------------------
+Steps to use the bot:
+--------------------
+
+1. http://127.0.0.1:5000/ This is the localhost link to access this link, we have to run App.py python file.
 2.Choose a pizza style in which style you want  pizza. 
 3. Enter size of the pizza 
 4.Add toppings if you need any 
@@ -11,6 +14,7 @@ Steps to use the bot:
 6.After giving all the information your pizza order has been successfully placed.
 
 Trained Data Till Now:
+----------------------
 
 1.Question & Answer Text: 
 You: I want to order pizza? 
@@ -31,6 +35,7 @@ You: 609001?
 Bot: Thank you, your Order for Big size cheese busrt pizza with Mushroom  toppings has been placed!
 
 2. Personal Question:
+---------------------
 
 You: Are you a robot? 
 Bot: Yes, My name is YoYoPizza Bot 
